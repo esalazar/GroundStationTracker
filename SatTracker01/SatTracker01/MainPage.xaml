@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="SatTracker01.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:m="clr-namespace:Microsoft.Maps.MapControl;assembly=Microsoft.Maps.MapControl"
+    mc:Ignorable="d"
+    d:DesignHeight="900" d:DesignWidth="600">
+
+    <Grid x:Name="LayoutRoot" Background="LightSkyBlue">
+            <Grid>
+                <m:Map x:Name="SatMap" Mode="Aerial" CredentialsProvider="AozlO9eznK42ZibXSSwYG5xlu8FAs2IdG80kGSqvPP2sqNuUzn0HRQ1OiFrs_Atw">
+                    <m:MapLayer x:Name="mapLayer"/>
+                </m:Map>
+            </Grid>
+    </Grid>
+</UserControl>

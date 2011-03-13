@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Software\Relativio\SatTracker01\SatTracker01.Web\bin\SatTracker01.Web.dll
+C:\Users\Administrator\Documents\Software\Relativio\SatTracker01\SatTracker01.Web\bin\SatTracker01.Web.pdb
+C:\Users\Administrator\Documents\Software\Relativio\SatTracker01\SatTracker01.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Software\Relativio\SatTracker01\SatTracker01.Web\obj\Debug\SatTracker01.Web.dll
+C:\Users\Administrator\Documents\Software\Relativio\SatTracker01\SatTracker01.Web\obj\Debug\SatTracker01.Web.pdb

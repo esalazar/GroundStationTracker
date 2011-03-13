@@ -1,0 +1,9 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SatTracker01" EntryPointType="SatTracker01.App" RuntimeVersion="4.0.50401.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="SatTracker01" Source="SatTracker01.dll" />
+    <AssemblyPart x:Name="Microsoft.Maps.MapControl.Common" Source="Microsoft.Maps.MapControl.Common.dll" />
+    <AssemblyPart x:Name="Microsoft.Maps.MapControl" Source="Microsoft.Maps.MapControl.dll" />
+    <AssemblyPart x:Name="System.Xml.Linq" Source="System.Xml.Linq.dll" />
+    <AssemblyPart x:Name="System.Xml.Serialization" Source="System.Xml.Serialization.dll" />
+  </Deployment.Parts>
+</Deployment>
